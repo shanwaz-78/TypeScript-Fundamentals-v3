@@ -19,3 +19,5 @@ const array2:tyeOBj= {
 
  // In tuples we can define specific types to each element that's our tupels.
 const tuples: [string,string,number,boolean] = ['Simpson','Desuza',3,true];
+
+const arra3:String[] = ['First', 'Second', 'Third'];
