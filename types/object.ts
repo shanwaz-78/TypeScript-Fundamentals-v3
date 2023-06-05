@@ -17,3 +17,11 @@ const person:obj_type = {
 function sum(a:number, b:number){
   return a + b ;
 };
+
+type obj = {name : string; age : number; emurable: boolean};
+
+const user:obj = {
+  name : 'Will',
+  age : 19,
+  emurable : true,
+}
