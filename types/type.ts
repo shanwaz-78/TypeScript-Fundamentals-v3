@@ -18,3 +18,10 @@ const user:obj = {
   salary : 50000,
 };
 console.log(user.salary)
+
+
+function example(num1:number, num2:number):number {
+  return num1 + num2;
+};
+
+example(2,3);
