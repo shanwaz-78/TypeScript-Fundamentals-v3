@@ -11,7 +11,6 @@ const bool:boolean = true;
 // there are three core types in TS is string, number, boolean.
 
 type obj = {name:string, age:number, salary:number};
-
 const user:obj = {
   name : 'Julia',
   age : 30,
