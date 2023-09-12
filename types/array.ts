@@ -13,6 +13,7 @@ const array: tyeOBj = {
 
 type arrayType = [string, number, boolean];
 
+<<<<<<< HEAD
 const arr3: arrayType = ["hello", 3, true];
 console.log(arr3);
 
@@ -20,6 +21,10 @@ const array2: tyeOBj = {
   name: "kyle",
   age: 30,
 };
+=======
+ // In tuples we can define specific types to each element that's our tupels.
+const tuples: [string,string,number,boolean] = ['Simpson','Desuza',3,true];
+>>>>>>> origin/master
 
 // In tuples we can define specific types to each element that's our tupels.
 const tuples: [string, string, number, boolean] = [
