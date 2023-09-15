@@ -1,3 +1,5 @@
+"use strict";
+exports.__esModule = true;
 // union
 function unionExample(year) {
     return year;
@@ -10,3 +12,4 @@ var PersonFullDetails = {
     zipCode: "32234211"
 };
 console.log(PersonFullDetails);
+exports["default"] = PersonFullDetails;

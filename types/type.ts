@@ -1,3 +1,8 @@
+import PersonFullDetails from "./union & intersection";
+
+console.log(PersonFullDetails.zipCode);
+
+
 function sum(num1: number, num2: number): number {
   return num1 + num2;
 }
@@ -25,7 +30,7 @@ function example(num1: number, num2: number): number {
 example(2, 3);
 
 function union(param1: number | string) {
-  return param1 + 'hello';
+  return param1 + "hello";
 }
 
 console.log(union(3));

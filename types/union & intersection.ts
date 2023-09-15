@@ -26,3 +26,6 @@ const PersonFullDetails: PersonObj = {
 };
 
 console.log(PersonFullDetails);
+
+
+export default PersonFullDetails;

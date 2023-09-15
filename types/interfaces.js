@@ -18,4 +18,3 @@ console.log(obj);
 var arr = [1, 2, 3, 4];
 var result = arr.map(function (elem) { return elem * 3; });
 console.log(result);
-
